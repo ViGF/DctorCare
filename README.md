@@ -1,4 +1,4 @@
-# DctorCare
+# DoctorCare
 DoctorCare Landing Page
 
 ![cover](github/cover.png?style=flat)
